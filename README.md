@@ -2,8 +2,8 @@
 
 SmartPul - мобильное приложение, которое позволяет выполнять быстрые платежи по счетам
 
-Версия приложения:  https://app.flutterflow.io/run/VC29dTcgShb5qozsoW4q
-Для просмотра потребуется авторизация на FlutterFlow
+Версия приложения на FlutterFlow:  https://app.flutterflow.io/run/VC29dTcgShb5qozsoW4q 
+Для просмотра загрузить APK-файл. Потребуется авторизация.
 
 
 
